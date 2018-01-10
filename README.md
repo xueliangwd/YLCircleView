@@ -1,5 +1,7 @@
 # YLCircleView
-刻度盘效果 CAShapeLayer
+
+刻度盘效果 CAShapeLayer <br/>
+
 ![效果](./CurcleView.png)
 
 ## Example
